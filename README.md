@@ -1,14 +1,14 @@
-### 🌎 Olá Mundo! Eu sou Willian Junior
+### 🌎 Olá Mundo! Eu sou Willian Junior.
 
 ##
 
-⚡ Aficionado pelo desenvolvimento fullstack
+⚡ Aficionado pelo desenvolvimento fullstack.
 
-🎯 No momento estou trabalhando com Java
+🎯 No momento estou trabalhando com Java.
 
-🤖 Sou entusiasta em Aprendizado de Máquina
+🤖 Sou entusiasta em Aprendizado de Máquina.
 
-❤️ Apaixonado por tecnologias e jogos
+❤️ Apaixonado por tecnologias e jogos!
 
 ##
 
