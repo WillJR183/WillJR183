@@ -3,10 +3,10 @@
   
 <h1> 👋 Olá! Eu sou o Willian JR.</h1>
   
-<h4> ⚡ Aficionado pelo desenvolvimento fullstack.</h4>  
-<h4> 🎯 No momento estou trabalhando com Java.</h4>
-<h4> 🤖 Sou entusiasta em Aprendizado de Máquina.</h4>
-<h4> ❤️ Apaixonado por tecnologias e jogos!</h4>
+<h4> ⚡ Aficionado Pelo Universo dos Dados.</h4>  
+<h4> 🎯 No Momento Estou Trabalhando com Python.</h4>
+<h4> 🤖 Sou Entusiasta em Aprendizado de Máquina.</h4>
+<h4> ❤️ Apaixonado por Tecnologias e Jogos!</h4>
  
 </div>
 
